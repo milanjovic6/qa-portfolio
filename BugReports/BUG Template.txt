@@ -1,0 +1,28 @@
+-----------------------------------------
+Date: 0.0.2024
+Environment Details: DEV
+URL: /
+Email: /
+Pass: /
+
+Test Case Number: / Not related to TC
+
+Issue Description: 
+
+Steps To Reproduce:
+Precondition : 
+[
+
+]
+Steps:
+[
+Go to app
+Login 
+
+]
+Expected Result:
+
+Actual Result:
+
+
+Issue Screenshot/video recording: 
